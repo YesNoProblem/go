@@ -1,7 +1,11 @@
 ; 分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是安全性更新补丁)，文档允许有空行!
 
-; 2022-10 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x86 的系统
-_21H2x32-cab=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/10/windows10.0-kb5018410-x86_85e735317181e7690866247c0d1640cf3eec0e8e.cab
+; 2022-11 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x86 的系统
+_21H2x32-cab=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows10.0-kb5019959-x86_fc5ff2b870645ede876d2a2a0842f3e4a63f908c.cab
 
-; 2022-10 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统
-_21H2x64-cab=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/10/windows10.0-kb5018410-x64_fb086833ff2e6b7c0b7f17f0c6f77917a8a9e3b5.cab
+
+
+; 2022-11 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统
+_21H2x64-cab=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows10.0-kb5019959-x64_eac276bf7657830a8645dd99a36e5c1c3bd370e8.cab
+
+
