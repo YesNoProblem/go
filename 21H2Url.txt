@@ -1,12 +1,10 @@
 ; 分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是安全性更新补丁)，文档允许有空行!
-; 2022-12月份补丁如下：
+; 2023-01月份补丁如下：
 
 ; 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x86 的系统
-_21H2x32-cab=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows10.0-kb5021233-x86_77568227011e0750438ad1057e91b3ff3c76137a.cab
-
+_21H2x32-cab=http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022282-x86_5d0b1954dc3c50ae345ef6897813d6d10d7873cc.cab
 
 
 ; 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统
-_21H2x64-cab=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows10.0-kb5021233-x64_4b20e15fe6e4cf264be4651f95395e8980684a17.cab
-
+_21H2x64-cab=http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022282-x64_55c1b8d184e96ad52f52cc5066d3051d21368282.cab
 
